@@ -1,5 +1,5 @@
 # Twitter-Terms-and-Conditions
-Términos y condiciones de la aplicación
+Términos y condiciones de la API de autenticación de Twitter©
 
 Esta aplicación no compartirá sus datos con terceros.
 
